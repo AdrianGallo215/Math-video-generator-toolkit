@@ -11,3 +11,11 @@ assets/cache_tts/
 *.mp4
 !assets/**/*.mp4
 mfput.log
+
+# Contenido solo local (no es parte del toolkit)
+videos_generados/
+docs/
+ejemplos/
+.claude/
+CLAUDE.md
+agent_context.md
