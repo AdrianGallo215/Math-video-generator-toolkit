@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+media/
+salidas/
+qa/
+assets/cache_tts/
+**/reporte_error.json
+**/auditoria_layout.json
+*.mp4
+!assets/**/*.mp4
+mfput.log

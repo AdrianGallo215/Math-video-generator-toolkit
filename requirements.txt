@@ -1,0 +1,9 @@
+manim==0.21.0
+sympy>=1.12
+shapely>=2.0
+numpy>=1.26
+networkx>=3.1
+edge-tts>=7.0
+imageio-ffmpeg>=0.5
+PyYAML>=6.0
+pillow>=10.0
